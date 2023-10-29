@@ -2,4 +2,4 @@
 
 
 
-**basic programs on structures in cpp**
+**basic programs involving the usage of structures in cpp**
